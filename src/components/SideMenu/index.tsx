@@ -11,7 +11,7 @@ const SideMenu: React.FC = ({ tab, onChange }) => {
       <li
       
         onClick={() => onChange("home")}
-        className={`list-group-item disabled ${tab === "home" ? "active" : ""}`}
+        className={`list-group-item ${tab === "home" ? "active" : ""}`}
       >
         {i18n("Home Page")}
       </li>
