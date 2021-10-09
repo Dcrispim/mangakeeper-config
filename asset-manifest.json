@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mangakeeper-config/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mangakeeper-config/static/js/main.61c4493e.chunk.js",
-    "main.js.map": "/mangakeeper-config/static/js/main.61c4493e.chunk.js.map",
-    "runtime-main.js": "/mangakeeper-config/static/js/runtime-main.daa6452e.js",
-    "runtime-main.js.map": "/mangakeeper-config/static/js/runtime-main.daa6452e.js.map",
-    "static/js/2.3af7844f.chunk.js": "/mangakeeper-config/static/js/2.3af7844f.chunk.js",
-    "static/js/2.3af7844f.chunk.js.map": "/mangakeeper-config/static/js/2.3af7844f.chunk.js.map",
-    "static/js/3.2e4ea9f8.chunk.js": "/mangakeeper-config/static/js/3.2e4ea9f8.chunk.js",
-    "static/js/3.2e4ea9f8.chunk.js.map": "/mangakeeper-config/static/js/3.2e4ea9f8.chunk.js.map",
+    "main.js": "/mangakeeper-config/static/js/main.7e6aea27.chunk.js",
+    "main.js.map": "/mangakeeper-config/static/js/main.7e6aea27.chunk.js.map",
+    "runtime-main.js": "/mangakeeper-config/static/js/runtime-main.3dedc04b.js",
+    "runtime-main.js.map": "/mangakeeper-config/static/js/runtime-main.3dedc04b.js.map",
+    "static/js/2.8e3fd556.chunk.js": "/mangakeeper-config/static/js/2.8e3fd556.chunk.js",
+    "static/js/2.8e3fd556.chunk.js.map": "/mangakeeper-config/static/js/2.8e3fd556.chunk.js.map",
+    "static/js/3.758f0aba.chunk.js": "/mangakeeper-config/static/js/3.758f0aba.chunk.js",
+    "static/js/3.758f0aba.chunk.js.map": "/mangakeeper-config/static/js/3.758f0aba.chunk.js.map",
     "index.html": "/mangakeeper-config/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/mangakeeper-config/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3af7844f.chunk.js.LICENSE.txt": "/mangakeeper-config/static/js/2.3af7844f.chunk.js.LICENSE.txt"
+    "static/js/2.8e3fd556.chunk.js.LICENSE.txt": "/mangakeeper-config/static/js/2.8e3fd556.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.daa6452e.js",
-    "static/js/2.3af7844f.chunk.js",
+    "static/js/runtime-main.3dedc04b.js",
+    "static/js/2.8e3fd556.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.61c4493e.chunk.js"
+    "static/js/main.7e6aea27.chunk.js"
   ]
 }
