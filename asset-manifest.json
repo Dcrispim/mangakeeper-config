@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mangakeeper-config/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mangakeeper-config/static/js/main.133fc09a.chunk.js",
-    "main.js.map": "/mangakeeper-config/static/js/main.133fc09a.chunk.js.map",
-    "runtime-main.js": "/mangakeeper-config/static/js/runtime-main.3dedc04b.js",
-    "runtime-main.js.map": "/mangakeeper-config/static/js/runtime-main.3dedc04b.js.map",
-    "static/js/2.a6c7fd4a.chunk.js": "/mangakeeper-config/static/js/2.a6c7fd4a.chunk.js",
-    "static/js/2.a6c7fd4a.chunk.js.map": "/mangakeeper-config/static/js/2.a6c7fd4a.chunk.js.map",
-    "static/js/3.758f0aba.chunk.js": "/mangakeeper-config/static/js/3.758f0aba.chunk.js",
-    "static/js/3.758f0aba.chunk.js.map": "/mangakeeper-config/static/js/3.758f0aba.chunk.js.map",
+    "main.js": "/mangakeeper-config/static/js/main.3b1f9ca8.chunk.js",
+    "main.js.map": "/mangakeeper-config/static/js/main.3b1f9ca8.chunk.js.map",
+    "runtime-main.js": "/mangakeeper-config/static/js/runtime-main.1e6953fa.js",
+    "runtime-main.js.map": "/mangakeeper-config/static/js/runtime-main.1e6953fa.js.map",
+    "static/js/2.7317bc66.chunk.js": "/mangakeeper-config/static/js/2.7317bc66.chunk.js",
+    "static/js/2.7317bc66.chunk.js.map": "/mangakeeper-config/static/js/2.7317bc66.chunk.js.map",
+    "static/js/3.a0d74e8b.chunk.js": "/mangakeeper-config/static/js/3.a0d74e8b.chunk.js",
+    "static/js/3.a0d74e8b.chunk.js.map": "/mangakeeper-config/static/js/3.a0d74e8b.chunk.js.map",
     "index.html": "/mangakeeper-config/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/mangakeeper-config/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a6c7fd4a.chunk.js.LICENSE.txt": "/mangakeeper-config/static/js/2.a6c7fd4a.chunk.js.LICENSE.txt"
+    "static/js/2.7317bc66.chunk.js.LICENSE.txt": "/mangakeeper-config/static/js/2.7317bc66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3dedc04b.js",
-    "static/js/2.a6c7fd4a.chunk.js",
+    "static/js/runtime-main.1e6953fa.js",
+    "static/js/2.7317bc66.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.133fc09a.chunk.js"
+    "static/js/main.3b1f9ca8.chunk.js"
   ]
 }
